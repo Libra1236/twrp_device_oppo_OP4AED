@@ -14,5 +14,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-export ALLOW_MISSING_DEPENDENCIES=true
-export LC_ALL="C"
+add_lunch_combo omni_OP4AED-eng
